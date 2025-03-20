@@ -1,0 +1,49 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #737373;
+   
+}
+.ul{
+    margin-left:1600px; 
+    list-style: none;
+    display: flex;
+    gap: 27px;
+    
+}
+.section{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+a img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.cert{
+    margin-left: 1200px;
+}
+.main button{
+    color: white;
+    width: 130px;
+    border-radius: 9px;
+    
+    height: 30px;
+     background: linear-gradient(135.87deg, rgb(185, 1, 96) 2.23%,rgb(46, 49, 146) 99.506%);;
+}
+.main{
+    margin-right: 2345px;
+    
+}
+.mainw{
+    margin-left: 654px;
+}
+.ui img{
+    justify-content: center;
+}
+.footer{
+width: 1440px;
+}
